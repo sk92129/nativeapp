@@ -4,3 +4,7 @@
 
 
 ![NativeApplications](images/nativetravelerapp.png "Native Swift with Google Map, and Native Kotlin with Google Map ") 
+
+
+
+![showbarcode](images/showqrcode.png "Show QRCode in Swift ") 
